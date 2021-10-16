@@ -12,7 +12,8 @@ import { ProductFormComponent } from './product-form/product-form.component';
     HeaderComponent,
     FooterComponent,
     ProductsComponent,
-    ProductFormComponent
+    ProductFormComponent,
+    ProductsComponent
   ],
   imports: [
     CommonModule
@@ -21,7 +22,8 @@ import { ProductFormComponent } from './product-form/product-form.component';
     HeaderComponent,
     FooterComponent,
     ProductsComponent,
-    ProductFormComponent
+    ProductFormComponent,
+    ProductsComponent
   ]
 })
 export class AdminModule { }
